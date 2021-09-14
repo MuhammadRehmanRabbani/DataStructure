@@ -1,0 +1,97 @@
+Start Time : Sat Sep 21 02:21:26 2019
+
+Inserted vehicle in StarStack :starA
+Inserted vehicle in TieStack :tieA
+Inserted vehicle in TieStack :tieB
+Inserted vehicle in TieStack :tieC
+Vehicle poped out of stack: starA
+Vehicle Type: Star Destroyer
+Vehicle Name: starA
+Start Time: Sat Sep 21 02:21:26 2019
+Finish Time Sat Sep 21 02:43:26 2019
+Time to repair: 1320s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieD
+Inserted vehicle in TieStack :tieE
+Inserted vehicle in TieStack :tieF
+Inserted vehicle in StarStack :starB
+Vehicle poped out of stack: starB
+Vehicle Type: Star Destroyer
+Vehicle Name: starB
+Start Time: Sat Sep 21 02:43:28 2019
+Finish Time Sat Sep 21 02:43:28 2019
+Time to repair: 7.67e-05s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieG
+Inserted vehicle in TieStack :tieH
+Inserted vehicle in TieStack :tieI
+Inserted vehicle in TieStack :tieJ
+Vehicle poped out of stack: tieJ
+Vehicle Type: Tie Fighter
+Vehicle Name: tieJ
+Start Time: Sat Sep 21 02:43:30 2019
+Finish Time Sat Sep 21 02:45:30 2019
+Time to repair: 120.009s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieK
+Inserted vehicle in TieStack :tieL
+Inserted vehicle in TieStack :tieM
+Inserted vehicle in TieStack :tieN
+Vehicle poped out of stack: tieN
+Vehicle Type: Tie Fighter
+Vehicle Name: tieN
+Start Time: Sat Sep 21 02:45:32 2019
+Finish Time Sat Sep 21 02:46:32 2019
+Time to repair: 60.0086s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieO
+Inserted vehicle in TieStack :tieP
+Inserted vehicle in TieStack :tieQ
+Inserted vehicle in TieStack :tieR
+Vehicle poped out of stack: tieR
+Vehicle Type: Tie Fighter
+Vehicle Name: tieR
+Start Time: Sat Sep 21 02:46:34 2019
+Finish Time Sat Sep 21 02:49:34 2019
+Time to repair: 180.004s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieS
+Inserted vehicle in TieStack :tieT
+Inserted vehicle in StarStack :starC
+Inserted vehicle in TieStack :tieU
+Vehicle poped out of stack: starC
+Vehicle Type: Star Destroyer
+Vehicle Name: starC
+Start Time: Sat Sep 21 02:49:36 2019
+Finish Time Sat Sep 21 02:56:36 2019
+Time to repair: 420.008s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieV
+Inserted vehicle in TieStack :tieW
+
+Space is full. Kindly direct towards repair facility in the Dagaba system
+Vehicle tieX has been rejected
+
+Space is full. Kindly direct towards repair facility in the Dagaba system
+Vehicle tieY has been rejected
+Vehicle poped out of stack: tieW
+Vehicle Type: Tie Fighter
+Vehicle Name: tieW
+Start Time: Sat Sep 21 02:56:38 2019
+Finish Time Sat Sep 21 02:57:38 2019
+Time to repair: 60.0107s
+Time consumed for preparation of facility: 2 seconds
+Inserted vehicle in TieStack :tieZ
+
+Space is full. Kindly direct towards repair facility in the Dagaba system
+Vehicle tieA has been rejected
+
+Space is full. Kindly direct towards repair facility in the Dagaba system
+Vehicle starD has been rejected
+
+Space is full. Kindly direct towards repair facility in the Dagaba system
+Vehicle tieB has been rejected
+
+Total Star Destroyers Repaired: 3
+
+Total Tie Destroyers Repaired: 4
